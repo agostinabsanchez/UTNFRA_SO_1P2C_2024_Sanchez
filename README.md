@@ -1,0 +1,2 @@
+# -UTNFRA_SO_1P2C_Modelo_Agostina_Sanchez
+Modelo examen primer parcial
