@@ -1,2 +1,2 @@
-# UTNFRA_SO_1P2C_Modelo_Agostina_Sanchez
+# UTNFRA_SO_1P2C_2024_Sanchez
 Modelo examen primer parcial
